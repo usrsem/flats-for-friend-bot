@@ -1,0 +1,32 @@
+{
+  "requestOptions": {
+    "uri": "https://mobile.facebook.com/groups/flats4friends/posts",
+    "body": "",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "PostmanRuntime/7.28.3"
+    }
+  },
+  "requestToPost": {
+    "uri": "",
+    "body": "",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0"
+    }
+  },
+  "parserSpeed": 1,
+  "facebookAuth": {
+    "link": "https://mobile.facebook.com/",
+    "username": "",
+    "password": ""
+  },
+  "tgBotMessage": {
+    "uri": "https://api.telegram.org/bot1501946223:AAFiowbQpwjjDEKD2Cwswat5gYSoKsCrxKk/sendMessage",
+    "method": "POST",
+    "qs": {
+      "chat_id": "",
+      "text": ""
+    }
+  }
+}
